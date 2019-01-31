@@ -54,8 +54,6 @@ The resulting path planner works well, but not perfectly. It has managed to accu
 
 ![21 Miles](img.PNG)
 
---
-
 *The description below is Udacity's original README for the project repo*
    
 ### Simulator. You can download the Term3 Simulator BETA which contains the Path Planning Project from the [releases tab](https://github.com/udacity/self-driving-car-sim/releases).
