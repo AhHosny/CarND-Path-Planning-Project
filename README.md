@@ -52,9 +52,9 @@ The new path starts with a certain number of points from the previous path, whic
 
 The resulting path planner works well, but not perfectly. It has managed to accumulate incident-free runs of over ten miles multiple times, and once navigating the track incident-free for over twenty miles (for which the image below is evidence). Improving the planner from this point is difficult due to the infrequency of infractions and inability to duplicate the circumstances that led up to an infraction. Overall, I am very satisfied with its performance.
 
-![22 miles](21.png)
+![21 Miles](img.png)
 
----
+--
 
 *The description below is Udacity's original README for the project repo*
    
